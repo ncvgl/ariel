@@ -1,4 +1,4 @@
-# Plarium Agent Engine Project
+# Ariel Agent Engine Project
 
 - **agent.py**: Defines the core multi-agent logic using `LlmAgent` and integrated search tools.
 - **update_agent.py**: Deploys and updates the agent logic to a remote Vertex AI Agent Engine instance.
